@@ -54,7 +54,7 @@
     <image src="http://p1.meituan.net/0.120.100/xianfu/d3a267d8418c66850c3a7b8358aa8c408360.jpeg" style="width:94px;height:74px"></image>
     <view style="flex:1">
       <view>
-        <text style="font-size:12pt">晋B•2008烧烤·海鲜</text>
+        <text style="font-size:12pt">南京大排档</text>
         <image style="width:15px;height:15px" src="http://p1.meituan.net/xianfu/32200c3060be7903f62c9076308619ee734.png"></image>
       </view>
       <view style="align-items: center;display: flex; margin-top:5px;flex: 1;">
@@ -66,7 +66,7 @@
         <text style="font-size:10pt;color:#656565">月售132单</text>
       </view>
       <view class="">
-        <text style="font-size:10pt;color:#656565">起送价￥25|配送￥12</text>
+        <text style="font-size:10pt;color:#656565">起送价￥25|配送￥2</text>
       </view>
     </view>
     <view>
@@ -74,10 +74,10 @@
         <text style="font-size:10pt;color:#656565;">5.1km</text>
       </view>
       <view style="text-align:right">
-        <text style="font-size:10pt;color:#656565">33分钟</text>
+        <text style="font-size:10pt;color:#656565">43分钟</text>
       </view>
       <view class="">
-        <text class="allocation">美团专送</text>
+        <text class="allocation">蜂鸟专送</text>
       </view>
     </view>
   </view>
@@ -102,7 +102,7 @@
         <text style="font-size:10pt;color:#656565">月售983单</text>
       </view>
       <view class="">
-        <text style="font-size:10pt;color:#656565">起送价￥30|配送￥9</text>
+        <text style="font-size:10pt;color:#656565">起送价￥30|配送￥5</text>
       </view>
     </view>
     <view>
@@ -110,10 +110,10 @@
         <text style="font-size:10pt;color:#656565;">2.1km</text>
       </view>
       <view style="text-align:right">
-        <text style="font-size:10pt;color:#656565">44分钟</text>
+        <text style="font-size:10pt;color:#656565">24分钟</text>
       </view>
       <view class="">
-        <!--<text class="allocation">美团专送</text>-->
+        <!--<text class="allocation">蜂鸟专送</text>-->
       </view>
     </view>
   </view>
@@ -136,7 +136,7 @@
         <text style="font-size:10pt;color:#656565">月售206单</text>
       </view>
       <view class="">
-        <text style="font-size:10pt;color:#656565">起送价￥25|配送￥12(夜间)</text>
+        <text style="font-size:10pt;color:#656565">起送价￥25|配送￥8(夜间)</text>
       </view>
     </view>
     <view>
@@ -144,10 +144,10 @@
         <text style="font-size:10pt;color:#656565;">5.1km</text>
       </view>
       <view style="text-align:right">
-        <text style="font-size:10pt;color:#656565">33分钟</text>
+        <text style="font-size:10pt;color:#656565">45分钟</text>
       </view>
       <view class="">
-        <text class="allocation">美团专送</text>
+        <text class="allocation">蜂鸟专送</text>
       </view>
     </view>
   </view>
@@ -169,18 +169,18 @@
         <text style="font-size:10pt;color:#656565">月售1663单</text>
       </view>
       <view class="">
-        <text style="font-size:10pt;color:#656565">起送价￥0|配送￥9</text>
+        <text style="font-size:10pt;color:#656565">起送价￥15|配送￥4</text>
       </view>
     </view>
     <view>
       <view style="text-align:right">
-        <text style="font-size:10pt;color:#656565;">4.1km</text>
+        <text style="font-size:10pt;color:#656565;">4.4km</text>
       </view>
       <view style="text-align:right">
         <text style="font-size:10pt;color:#656565">31分钟</text>
       </view>
       <view class="">
-        <text class="allocation">美团专送</text>
+        <!-- <text class="allocation">蜂鸟专送</text> -->
       </view>
     </view>
   </view>
