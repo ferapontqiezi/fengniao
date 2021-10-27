@@ -3,7 +3,7 @@
 
 
 .star{
-background: url(http://xs01.meituan.net/waimai_i/img/sprite/homestars.02ae04d0.png) no-repeat;
+background: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fgss0.baidu.com%2F9vo3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fpic%2Fitem%2F34fae6cd7b899e5126f5b89947a7d933c9950dc7.jpg) no-repeat;
     background-size: cover;
     width: 17px;
     height: 17px;

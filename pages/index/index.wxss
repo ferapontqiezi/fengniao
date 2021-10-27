@@ -27,6 +27,11 @@
   margin-top: -10px;
 }
 
+.enter {
+  margin-top: -10px;
+  margin-bottom: 5px;
+}
+
 .icon {
   margin-top: -20px;
   width: 30%;

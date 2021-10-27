@@ -7,6 +7,9 @@
   </view>-->
   <!--<view class="bnrs-indic-wrap">
   </view>-->
+  <navigator url="entry">
+    <button><view class="enter" style="color: rgb(238, 121, 11); font-size: 20px;">适老化入口</view></button>
+  </navigator>
   <navigator url="list">
     <view style="display: flex;">
       <view class="icon">
